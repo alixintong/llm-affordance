@@ -1,0 +1,19 @@
+item_id,text_a,text_b,text_c,image_a,image_b,image_c
+1,laptop computer,paper napkin,hunting rifle,laptopcomputer_synthetic.png,papernapkin_synthetic.png,huntingrifle_synthetic.png
+2,nickel,pen,string,nickel_synthetic.png,pen_synthetic.png,string_synthetic.png
+3,old magazines,floppy disks,pencils,oldmagazines_synthetic.png,floppydisks_synthetic.png,pencils_synthetic.png
+4,ski-mask,matchbook,newspaper,skimask_synthetic.png,matchbook_synthetic.png,newspaper_synthetic.png
+5,cookie jar,clothes dryer,broom closet,cookiejar_synthetic.png,clothesdryer_synthetic.png,broomcloset_synthetic.png
+6,tractor,chair,hammer,tractor_synthetic.png,chair_synthetic.png,hammer_synthetic.png
+7,map,rock,bellows,map_synthetic.png,rock_synthetic.png,bellows_synthetic.png
+8,large refrigerator,red beanbag,plastic spoon,largerefrigerator_synthetic.png,redbeanbag_synthetic.png,plasticspoon_synthetic.png
+9,electric outlet,vacuum cleaner,door knob,electricoutlet_synthetic.png,vacuumcleaner_synthetic.png,doorknob_synthetic.png
+10,screw driver,seven iron,ham sandwich,screwdriver_synthetic.png,seveniron_synthetic.png,hamsandwich_synthetic.png
+11,warm thermos,hair dryer,hair pin,warmthermos_synthetic.png,hairdryer_synthetic.png,hairpin_synthetic.png
+12,shower cap,hamburger bun,sandwich wrapper,showercap_synthetic.png,hamburgerbun_synthetic.png,sandwichwrapper_synthetic.png
+13,leaves,water,clothes,leaves_synthetic.png,water_synthetic.png,clothes_synthetic.png
+14,towel,shirt,glasses,towel_synthetic.png,shirt_synthetic.png,glasses_synthetic.png
+15,bent earring,note pad,popsicle stick,bentearring_synthetic.png,notepad_synthetic.png,popsiclestick_synthetic.png
+16,rolled paper,mop handle,smelly sock,rolledpaper_synthetic.png,mophandle_synthetic.png,smellysock_synthetic.png
+17,chalk,rice,water,chalk_synthetic.png,rice_synthetic.png,water_synthetic.png
+18,her mailbox,the lavatory,her office,hermailbox_synthetic.png,thelavatory_synthetic.png,heroffice_synthetic.png

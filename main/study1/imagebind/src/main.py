@@ -28,7 +28,6 @@ def main(args):
     img_save_path = f"results/{dataset}/{dataset}_{model_name}_{relationship}.png"
     data_save_path = f"results/{dataset}/{dataset}_{model_name}_{relationship}.csv"
 
-
     # Create folders for results
     os.makedirs(f"results/{dataset}", exist_ok=True)
     
@@ -42,7 +41,7 @@ def main(args):
     print(f"t = {t}, p = {p}", '\n')
 
     anova_result = anova(results)
-    print (anova_result,'\n')
+    print(anova_result,'\n')
 
     plot_results(results, img_save_path)
     results.to_csv(data_save_path)
